@@ -1,0 +1,25 @@
+# Build files
+build
+dist
+*.egg-info
+*.so
+*.pyd
+*.pyc
+MANIFEST
+
+# Cython generated files
+__pycache__
+
+# Editor files
+# Ignore project files.
+*.pyproj
+*.sublime-project
+*.sublime-workspace
+.idea
+.vscode
+
+*~
+.project
+.pydevproject
+.settings/*
+.DS_Store

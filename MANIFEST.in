@@ -1,0 +1,2 @@
+include orangecontrib/resolwe/tutorials/*.ows
+include orangecontrib/resolwe/widgets/icons/*

@@ -1,0 +1,4 @@
+Orange3
+resdk
+anyqt
+pyqt5
